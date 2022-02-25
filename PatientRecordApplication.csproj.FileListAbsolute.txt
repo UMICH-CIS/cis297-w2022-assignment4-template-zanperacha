@@ -1,0 +1,7 @@
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe.config
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.pdb
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.AssemblyReference.cache
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.CoreCompileInputs.cache
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.exe
+C:\Users\Blair\OneDrive - Umich\Documents\GitHub\cis297 attempt 2\cis297-w2022-assignment4-template-zanperacha\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.pdb
